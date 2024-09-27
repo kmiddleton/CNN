@@ -6,8 +6,12 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"dataiter",
+			"imshow",
+			"npimg",
 			"relu",
-			"torchvision"
+			"torchvision",
+			"unnormalize"
 		]
 	}
 }
