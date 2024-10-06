@@ -9,6 +9,7 @@
 			"dataiter",
 			"imshow",
 			"npimg",
+			"overfitting",
 			"randn",
 			"relu",
 			"torchvision",
