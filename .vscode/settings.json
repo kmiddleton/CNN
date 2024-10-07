@@ -1,1 +1,8 @@
-{}
+{
+  "cSpell.words": [
+    "torchvision",
+    "tqdm",
+    "trainloader",
+    "valloader"
+  ]
+}
