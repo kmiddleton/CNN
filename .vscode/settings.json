@@ -1,8 +1,11 @@
 {
   "cSpell.words": [
+    "ncols",
     "torchvision",
     "tqdm",
     "trainloader",
-    "valloader"
+    "valloader",
+    "xlabel",
+    "ylabel"
   ]
 }
